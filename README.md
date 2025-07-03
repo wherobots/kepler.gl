@@ -301,7 +301,7 @@ Read more about [Custom Map Styles][custom-map-styles].
 
 - Default: `undefined`
 
-Intial UI State applied to uiState reducer, value will be shallow merged with default [`INITIAL_UI_STATE`](https://docs.kepler.gl/docs/api-reference/reducers/ui-state#initial_ui_state)
+Initial UI State applied to uiState reducer, value will be shallow merged with default [`INITIAL_UI_STATE`](https://docs.kepler.gl/docs/api-reference/reducers/ui-state#initial_ui_state)
 
 #### `localeMessages` (object, optional)
 
